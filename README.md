@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/My%20telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/call_me_noname)
-[![Discord](https://img.shields.io/badge/QuaSaRs%20Discord%20server-%237289DA.svg?logo=discord&logoColor=white)](https://t.me/call_me_noname)
+[![Discord](https://img.shields.io/badge/QuaSaRs%20Discord%20server-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YKsc8ABm8T)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
